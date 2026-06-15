@@ -18,6 +18,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://discord.com/channels/@me" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
 </div>
 
 ---
@@ -48,8 +52,15 @@ SolidWorks • ANSYS Fluent • XFOIL • MATLAB • Fusion 360 • ROS2 • Gaz
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaviyarasu-C-U&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaviyarasu-C-U&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaviyarasu-C-U&show_icons=true&theme=tokyonight" height="160"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaviyarasu-C-U&theme=tokyonight" height="160"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviyarasu-C-U&layout=compact&theme=tokyonight" height="160"/>
 </div>
 
 ---
@@ -61,6 +72,19 @@ SolidWorks • ANSYS Fluent • XFOIL • MATLAB • Fusion 360 • ROS2 • Gaz
 - CFD Analysis & Aerodynamics
 - ROS2 & Autonomous Navigation
 - Engineering Research
+- AI Applications in Aerospace
+
+---
+
+### 🏆 Certifications & Interests
+
+- SolidWorks Certified
+- CFD & Aerodynamics
+- Autonomous Drone Systems
+- Robotics & Automation
+- Research & Innovation
+
+---
 
 <p align="center">
   <i>"Engineering the Future Through Innovation"</i>
